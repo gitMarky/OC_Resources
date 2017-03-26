@@ -1,0 +1,7 @@
+Standard-export:
+* Set up model so so that Num3 displays it as desired in Blender
+* Export with [xz-y]
+
+Clonk export:
+* Set up model
+* Export with mesh with [xz-y] (, export skeleton with [-xzy]) <= that does not work, you have to convert the skeleton from the original clonk, remove the animations
