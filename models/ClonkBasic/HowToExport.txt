@@ -1,0 +1,6 @@
+1. Adjust UVs as desired
+2. Rename material "enter_material_name" to your desired material name
+3. Join meshes under "armature" as desired
+4. Delete the unnecessary meshes
+5. Rename the mesh datablock to "include.Clonk" => this is necessary so that it will use the skeleton "include.Clonk.skeleton" after the export
+6. When using the exported mesh in one of your objects, use the "include.Clonk.skeleton" from this directory, because the exported skeleton may be broken
