@@ -1,4 +1,4 @@
 *.blend1
 *.blend2
-*export/*
+**/temp/*
 **/export/*
